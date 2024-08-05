@@ -1,6 +1,6 @@
-# Sparse Uncertainty-Informed Sampling from Federated Streaming Data
+# [ESANN'24] Sparse Uncertainty-Informed Sampling from Federated Streaming Data
 
-This respository is an implementation of the algorithm proposed in the paper "Sparse Uncertainty-Informed Sampling for Federated Streaming Data", currently under review.
+This respository is an implementation of the algorithm proposed in the paper "**Sparse Uncertainty-Informed Sampling for Federated Streaming Data**".
 
 ![bw](/assets/bw.png)
 
