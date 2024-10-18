@@ -34,5 +34,12 @@ If you want to enable sample highlighting, the DeepView.py code needs to include
 # Bibliography
 If you find our work to be useful in your research, please cite:
 ```
-TBA
+@inproceedings{roeder2024sparse,
+  author    = {Röder, Manuel and Schleif, Frank-Michael},
+  title     = {Sparse Uncertainty-Informed Sampling from Federated Streaming Data},
+  booktitle = {Proceedings of the 32nd European Symposium on Artificial Neural Networks, Computational Intelligence and Machine Learning (ESANN 2024)},
+  year      = {2024},
+  address   = {Bruges, Belgium},
+  month     = {October 9-11},
+}
 ```
